@@ -11,7 +11,7 @@
     <PackageReference Include="Dapper" Version="2.1.24" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
-    <PackageReference Include="System.data.sqlclient" Version="4.8.5" />
+    <PackageReference Include="System.data.sqlclient" Version="4.8.6" />
   </ItemGroup>
 
 </Project>
